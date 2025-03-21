@@ -1,3 +1,6 @@
+
+https://colab.research.google.com/drive/1IFs2IwZJgP0hA79xc4RnwnFwUqG-QMtx#scrollTo=BAUeHxOP1M9J
+
 # Maquina de Turing BINARIA
 
 Este repositorio contiene una implementacion de una Maquina de Turing en Python capaz de procesar cadenas binarias y realizar operaciones matematicas basicas y avanzadas

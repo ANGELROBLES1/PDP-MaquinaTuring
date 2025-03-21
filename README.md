@@ -1,1 +1,1 @@
-# PDP-MaquinaTuring
+# ParadigmasDeProgramacion-MaquinaTuring

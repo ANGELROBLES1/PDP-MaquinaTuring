@@ -72,15 +72,13 @@ El codigo maneja errores en casos de
 ____________________________________________________________________________________________________________________________________________________________________
 # Maquina de Turing Unitaria
 
-Este repositorio contiene una implementacion de una Maquina de Turing en Python capaz de procesar cadenas en notacion unitaria y realizar operaciones matematicas basicas y avanzadas
-
 ## Descripcion
 
-La Maquina de Turing implementada en este proyecto trabaja con una cinta que representa numeros en notacion unitaria y utiliza una tabla de transiciones para moverse a traves de ella Ademas el codigo incluye funciones para realizar operaciones matematicas como suma resta multiplicacion division raiz cuadrada potencia logaritmo y seno midiendo el tiempo de ejecucion de cada una
+Trabaja con una cinta que representa numeros en notacion unitaria y utiliza una tabla de transiciones para moverse a traves de ella Ademas el codigo incluye funciones para realizar operaciones matematicas como suma resta multiplicacion division raiz cuadrada potencia logaritmo y seno midiendo el tiempo de ejecucion de cada una
 
 ## Funcionamiento
 
-La Maquina de Turing se inicializa con una cinta de entrada y un estado inicial Luego ejecuta las transiciones definidas en su tabla hasta alcanzar un estado final La cinta se representa como una lista de caracteres y el cabezal se mueve a la derecha o izquierda dependiendo de la transicion correspondiente
+Se inicializa con una cinta de entrada y un estado inicial Luego ejecuta las transiciones definidas en su tabla hasta alcanzar un estado final La cinta se representa como una lista de caracteres y el cabezal se mueve a la derecha o izquierda dependiendo de la transicion correspondiente
 
 ### Tabla de Transiciones
 
